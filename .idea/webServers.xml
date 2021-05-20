@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8cb9445-b66f-40ac-8618-05e7d87386b3" name="Hermes" url="https://linktree.kleindev.de">
+        <fileTransfer rootFolder="/var/www/kleindev.de/linktree.kleindev.de/" accessType="SFTP" host="hermes.kleindev.de" port="19464" sshConfigId="96f45f16-f567-45f0-aad8-19fecd30a808" sshConfig="root@hermes.kleindev.de:19464 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+[
+  {
+    "quote": "Computer gehorchen deinen Befehlen, nicht deinen Absichten.",
+    "author": "Unknown author",
+    "enabled": true
+  },
+  {
+    "quote": "Ein Computer wird das tun, was du programmierst - nicht das, was du willst.",
+    "author": "Unknown author",
+    "enabled": true
+  },
+  {
+    "quote": "Die Ursache für 90% der Fehlermeldungen befindet sich 60cm vor dem Bildschirm.",
+    "author": "Unknown author",
+    "enabled": true
+  },
+  {
+    "quote": "Programmieren ist wie Küssen: Man kann darüber reden, man kann es beschreiben,\n aber man weiß erst was es bedeutet, wenn man es getan hat.",
+    "author": "Andrée Beaulieu-Green",
+    "enabled": true
+  },
+  {
+    "quote": "Das Fluchen ist die einzige Sprache, die jeder Programmierer beherrscht.",
+    "author": "Unknown author",
+    "enabled": true
+  },
+  {
+    "quote": "Passwörter sind wie Unterwäsche. Du darfst sie keinen sehen lassen,\n musst sie regelmäßig wechseln und solltest sie nicht mit Fremden tauschen.",
+    "author": "Chris Pirillo",
+    "enabled": true
+  },
+  {
+    "quote": "Die einfachste Art an korrekte Informationen zu gelangen ist,\n etwas Falsches in ein Forum zu posten und auf die Korrektur zu warten.",
+    "author": "Matthew Austern",
+    "enabled": false
+  }
+]
