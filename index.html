@@ -42,7 +42,7 @@
           crossorigin="anonymous"/>
 </head>
 
-<body>
+<body onload="loadAll()">
 <div class="container">
     <div class="col-xs-12">
         <div class="text-center" style="padding-top: 30px; padding-bottom: 30px;">
@@ -125,9 +125,11 @@
     Design by <a href="https://www.alphaready.co" style="color: #ffffff;">AlphaReady</a>, Logical part by <a href="https://github.com/kleindevde" style="color: #ffffff;">KleinDev</a>
 </div>
 <script>
-    loadQuote();
-    loadGitHubData();
-    loadInstagramData();
+    function loadAll(){
+        loadQuote();
+        loadGitHubData();
+        loadInstagramData();
+    }
 </script>
 
 <!-- This pre-lander was created by Brandon Nilsson -->
