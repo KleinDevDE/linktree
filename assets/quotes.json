@@ -33,5 +33,10 @@
     "quote": "Die einfachste Art an korrekte Informationen zu gelangen ist,\n etwas Falsches in ein Forum zu posten und auf die Korrektur zu warten.",
     "author": "Matthew Austern",
     "enabled": false
+  },
+  {
+    "quote": "EDV-Systeme verarbeiten, womit sie gefüttert werden. Kommt Mist rein, kommt Mist raus.",
+    "author": "André Kostolany",
+    "enabled": true
   }
 ]
