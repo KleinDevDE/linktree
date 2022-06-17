@@ -2,7 +2,7 @@
   {
     "quote": "Computer gehorchen deinen Befehlen, nicht deinen Absichten.",
     "author": "Unknown author",
-    "enabled": true
+    "enabled": false
   },
   {
     "quote": "Ein Computer wird das tun, was du programmierst - nicht das, was du willst.",
@@ -32,11 +32,46 @@
   {
     "quote": "Die einfachste Art an korrekte Informationen zu gelangen ist,\n etwas Falsches in ein Forum zu posten und auf die Korrektur zu warten.",
     "author": "Matthew Austern",
-    "enabled": false
+    "enabled": true
   },
   {
     "quote": "EDV-Systeme verarbeiten, womit sie gefüttert werden. Kommt Mist rein, kommt Mist raus.",
     "author": "André Kostolany",
     "enabled": true
+  },
+  {
+    "quote": "Der Computer rechnet mit allem, nur nicht mit seinem Besitzer.",
+    "author": "Dieter Hildebrandt",
+    "enabled": true
+  },
+  {
+    "quote": "Mit Software ist es wie mit Sex: Sie ist am besten, wenn sie kostenlos ist.",
+    "author": "Linus Thorwald",
+    "enabled": true
+  },
+  {
+    "quote": "Programmiere immer so, als ob derjenige, der deinen Code wartet, ein gewalttätiger Psychopath ist, der weiß, wo du wohnst.",
+    "author": "Martin Golding",
+    "enabled": true
+  },
+  {
+    "quote": "Das Alzheimer-Gesetz der Programmierung:\nWenn du einen von dir vor zwei Wochen geschriebenen Code ansiehst,\nkommt es dir vor als hättest du ihn noch nie gesehen.",
+    "author": "Dan Hurvitz",
+    "enabled": true
+  },
+  {
+    "quote": "Manchmal lohnt es sich, am Montag im Bett zu bleiben,\nanstatt den Rest der Woche damit zu verbringen, den Code vom Montag zu debuggen.",
+    "author": "Dan Salomon",
+    "enabled": true
+  },
+  {
+    "quote": "Wer immer tut, was er schon kann, bleibt immer das, was er schon ist.",
+    "author": "Henry Ford",
+    "enabled": false
+  },
+  {
+    "quote": "",
+    "author": "",
+    "enabled": false
   }
 ]
